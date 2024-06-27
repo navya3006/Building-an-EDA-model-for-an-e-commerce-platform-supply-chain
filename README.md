@@ -63,7 +63,6 @@ Navigate to the `linear_regression` folder for:
 - **Evaluation Metrics**: Code and documentation for assessing model performance.
 - **Predictions**: Results and insights from the linear regression analysis.
 
-# Folder Structure
 
 
 
