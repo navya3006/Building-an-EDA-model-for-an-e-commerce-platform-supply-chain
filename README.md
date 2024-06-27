@@ -54,9 +54,5 @@ Navigate to the `linear_regression` folder for:
 |   |-- evaluation_metrics/
 |   |-- predictions/
 
-## Linear Regression
 
--**Supply Chain Performance**: Key performance indicators (KPIs) and metrics visualized to understand the efficiency and bottlenecks.
--**Demand Patterns**: Analysis of demand trends and patterns over different periods.
--**Correlation Insights**: Identification of significant correlations between various supply chain parameters.
--**Strategic Recommendations**: Data-driven insights to support strategic decision-making for improving supply chain operations.
+## Linera
