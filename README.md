@@ -55,4 +55,15 @@ Navigate to the `linear_regression` folder for:
 |   |-- predictions/
 
 
-## Linera
+## Linear Regression
+
+Navigate to the `linear_regression` folder for:
+
+- **Model Development**: Jupyter notebooks or scripts building linear regression models.
+- **Evaluation Metrics**: Code and documentation for assessing model performance.
+- **Predictions**: Results and insights from the linear regression analysis.
+
+# Folder Structure
+
+
+
