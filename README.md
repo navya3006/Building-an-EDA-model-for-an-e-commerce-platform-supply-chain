@@ -23,8 +23,11 @@ The eda folder contains:
 Explore the statistical_analysis folder for:
 
 -Descriptive Statistics: Summary statistics and key metrics.
+
 -Correlation Analysis: Code and results examining relationships between variables.
+
 -Distribution Analysis: Scripts for analyzing the distribution of key variables
+
 ## Hypothesis Testing 
 In the hypothesis_testing folder, find:
 
